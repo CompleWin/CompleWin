@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nikolai Ivakhnenko
+<h1>Nikolai Ivakhnenko</h1>
 
 **Backend developer | C# / .NET | Java**  
 
@@ -18,13 +18,15 @@
 - BSc in Applied Mathematics and Computer Science, Southern Federal University (2026).
 - Open to backend roles, remote or with relocation.
 
----
-
 ## Projects
 
 ### [Tomorrow, I Promise](https://tomorrow-i-promise.ru/)
 
-<a href="https://tomorrow-i-promise.ru/"><img src="assets/tomorrow-i-promise.webp" alt="Tomorrow, I Promise" width="100%" /></a>
+<div align="center">
+
+<a href="https://tomorrow-i-promise.ru/"><img src="assets/tomorrow-i-promise.webp" alt="Tomorrow, I Promise" width="600" /></a>
+
+</div>
 
 Pixel-art visual novel about a hard choice. It runs in the browser and on phones. Made together with [Elizaveta Makarova](https://t.me/displiceat).
 
@@ -34,7 +36,7 @@ Pixel-art visual novel about a hard choice. It runs in the browser and on phones
 
 <div align="center">
 
-<a href="https://articles.openkege.ru/"><img src="assets/openkege-articles.webp" alt="A person in a Hatsune Miku wig holding an OpenKEGE sign at a rally" width="420" /></a>
+<a href="https://articles.openkege.ru/"><img src="assets/openkege-articles.webp" alt="A person in a Hatsune Miku wig holding an OpenKEGE sign, it is a real photo, I swear" width="400" /></a>
 
 </div>
 
@@ -47,6 +49,7 @@ Open articles portal in production: quizzes and a Python editor that runs code i
 | Project | What it is | Stack |
 |---|---|---|
 | **[GamesDB](https://github.com/CompleWin/gamesdb.complewin.ru)** · [site](https://gamesdb.complewin.ru/) | Game deals search on the CheapShark API: price comparison across stores, price history, deal analytics. | React 19 · TypeScript · TanStack Query · Chart.js |
+| **[Sudoku](https://github.com/CompleWin/sudoku-game)** | Browser Sudoku with real-time multiplayer: two players on one board, three difficulty levels, a mistake limit, a timer, Russian and English UI. | Phaser · Node.js · Socket.IO |
 | **[anki-cloze-cards](https://github.com/CompleWin/anki-cloze-cards)** | Claude Code agent skill that turns an English word or idiom into an Anki cloze card in context and imports it through AnkiConnect. | Python · AnkiConnect |
 
 ## Stack
