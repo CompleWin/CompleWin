@@ -44,6 +44,18 @@ Open articles portal in production: quizzes and a Python editor that runs code i
 
 **Stack:** Astro · React · TypeScript · MDX · Pyodide · KaTeX · [Site](https://articles.openkege.ru/) · [Code](https://github.com/CompleWin/articles.openkege.ru)
 
+### [Simple Time Tracker](https://timetracker.complewin.ru/)
+
+<div align="center">
+
+<a href="https://timetracker.complewin.ru/"><img src="assets/timetracker.webp" alt="A task starts from the picker, the timer runs in real time, the session shows up in the day's timeline" width="600" /></a>
+
+</div>
+
+Free open-source time tracker: timers for tasks and projects, several at once, sign-in through Telegram, sync with Notion. A Telegram bot reminds you about a timer that runs too long and can stop it from the chat.
+
+**Stack:** Vue 3 · TypeScript · Hono · Cloudflare Workers · D1 · Drizzle · [Site](https://timetracker.complewin.ru/) · [Code](https://github.com/CompleWin/timetracker.complewin.ru)
+
 ### More
 
 | Project | What it is | Stack |
